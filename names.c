@@ -6,5 +6,6 @@ int main()
     printf("I'm Saloni-3\n");
     printf("Iam pavani-4\n");
     printf("Iam Dinesh-5\n");
+    printf("iam manushna-6\n");
     return 0;
 }
